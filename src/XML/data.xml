@@ -1,0 +1,279 @@
+<dataSource dataSourceID="{746B61D4-FFE8-4E90-9C71-67A68FE04A19}" hasContent="true">
+  <row varName="1">
+    <col varName="Global-Market-Outlook_746B61D4FFE84E909C7167A68FE04A19_One_Off">&lt;p&gt;&lt;strong&gt;IMPORTANT INFORMATION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The views in this Global Market Outlook report are subject to change at any time based upon market or other conditions and are current as of December 5, 2022. While all material is deemed to be reliable, accuracy and completeness cannot be guaranteed.&lt;/p&gt;
+
+&lt;p&gt;Please remember that all investments carry some level of risk, including the potential loss of principal invested. They do not typically grow at an even rate of return and may experience negative growth. As with any type of portfolio structuring, attempting to reduce risk and increase return could, at certain times, unintentionally reduce returns.&lt;/p&gt;
+
+&lt;p&gt;Keep in mind that, like all investing, multi-asset investing does not assure a profit or protect against loss.&lt;/p&gt;
+
+&lt;p&gt;No model or group of models can offer a precise estimate of future returns available from capital markets. We remain cautious that rational analytical techniques cannot predict extremes in financial behavior, such as periods of financial euphoria or investor panic. Our models rest on the assumptions of normal and rational financial behavior. Forecasting models are inherently uncertain, subject to change at any time based on a variety of factors and can be inaccurate. Russell believes that the utility of this information is highest in evaluating the relative relationships of various components of a globally diversified portfolio. As such, the models may offer insights into the prudence of over or under weighting those components from time to time or under periods of extreme dislocation. The models are explicitly not intended as market timing signals.&lt;/p&gt;
+
+&lt;p&gt;Forecasting represents predictions of market prices and/or volume patterns utilizing varying analytical data. It is not representative of a projection of the stock market, or of any specific investment.&lt;/p&gt;
+
+&lt;p&gt;Investment in global, international or emerging markets may be significantly affected by political or economic conditions and regulatory requirements in a particular country. Investments in non-U.S. markets can involve risks of currency fluctuation, political and economic instability, different accounting standards and foreign taxation. Such securities may be less liquid and more volatile. Investments in emerging or developing markets involve exposure to economic structures that are generally less diverse and mature, and political systems with less stability than in more developed countries.&lt;/p&gt;
+
+&lt;p&gt;Currency investing involves risks including fluctuations in currency values, whether the home currency or the foreign currency. They can either enhance or reduce the returns associated with foreign investments.&lt;/p&gt;
+
+&lt;p&gt;Investments in non-U.S. markets can involve risks of currency fluctuation, political and economic instability, different accounting standards and foreign taxation.&lt;/p&gt;
+
+&lt;p&gt;Bond investors should carefully consider risks such as interest rate, credit, default and duration risks. Greater risk, such as increased volatility, limited liquidity, prepayment, non-payment and increased default risk, is inherent in portfolios that invest in high yield (“junk”) bonds or mortgage-backed securities, especially mortgage-backed securities with exposure to sub-prime mortgages. Generally, when interest rates rise, prices of fixed income securities fall. Interest rates in the United States are at, or near, historic lows, which may increase a Fund’s exposure to risks associated with rising rates. Investment in non-U.S. and emerging market securities is subject to the risk of currency fluctuations and to economic and political risks associated with such foreign countries.&lt;/p&gt;
+
+&lt;p&gt;Performance quoted represents past performance and should not be viewed as a guarantee of future results.&lt;/p&gt;
+
+&lt;p&gt;The S&amp;P 500® Index, or the Standard &amp; Poor’s 500, is a stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ.&lt;/p&gt;
+
+&lt;p&gt;The FTSE 100 Index is a market-capitalization weighted index of UK-listed blue chip companies.&lt;/p&gt;
+
+&lt;p&gt;The Bloomberg Global Treasury Index tracks fixed-rate, local currency government debt of investment grade countries, including both developed and emerging markets. The index represents the treasury sector of the Global Aggregate Index. The index was created in 1992, with history available from January 1, 1987.&lt;/p&gt;
+
+&lt;p&gt;Indexes are unmanaged and cannot be invested in directly.
+Copyright © Russell Investments 2022. All rights reserved. This material is proprietary and may not be reproduced, transferred, or distributed in any form without prior written permission from Russell Investments. It is delivered on an “as is” basis without warranty.&lt;/p&gt;
+
+&lt;p&gt;Russell Investments’ ownership is composed of a majority stake held by funds managed by TA Associates, with a significant minority stake held by funds managed by Reverence Capital Partners. Russell Investments’ employees and Hamilton Lane Advisors, LLC also hold minority, non-controlling, ownership stakes.&lt;/p&gt;
+
+&lt;p&gt;Frank Russell Company is the owner of the Russell trademarks contained in this material and all trademark rights related to the Russell trademarks, which the members of the Russell Investments group of companies are permitted to use under license from Frank Russell Company. The members of the Russell Investments group of companies are not affiliated in any manner with Frank Russell Company or any entity operating under the “FTSE RUSSELL” brand.&lt;/p&gt;</col>
+    <col varName="Global-Market-Outlook_746B61D4FFE84E909C7167A68FE04A19_Body"></col>
+    <col varName="Global-Market-Outlook_746B61D4FFE84E909C7167A68FE04A19_Title"></col>
+    <col varName="QQ-YYYY_1A9753C955144896A5BD0C57D3A09B82_Body">&lt;style&gt;
+
+.smallGMOtitle {
+     display:none;
+     visibility: hidden;
+}
+
+@media (max-width: 410px) {
+     .largeGMOtitle {display: none !important;}
+     .smallGMOtitle {display: flex; visibility: visible; justify-content:center;}
+}
+
+@media (max-width:768px) {
+    .largeGMOtitle {justify-content:center;}
+}
+
+&lt;/style&gt;
+
+&lt;div class="largeGMOtitle"&gt;
+     &lt;div width="40%"&gt;
+          &lt;div&gt;
+          &amp;grave;
+          &lt;/div&gt;
+          &lt;div&gt;
+          23
+          &lt;/div&gt;
+          &lt;div&gt;
+           ANNUAL
+           &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;div width="60%"&gt;
+          Global&lt;br&gt;Market&lt;br&gt;Outlook
+     &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="smallGMOtitle"&gt;
+     &lt;div width="40%"&gt;
+          &lt;div&gt;
+          &amp;grave;
+          &lt;/div&gt;
+          &lt;div&gt;
+          23
+          &lt;/div&gt;
+          &lt;div&gt;
+           ANNUAL
+           &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;div width="60%"&gt;
+          Global&lt;br&gt;Market&lt;br&gt;Outlook
+     &lt;/div&gt;
+&lt;/div&gt;</col>
+    <col varName="text_3B30DC276E19414698CE00C880A77B52_Body">&lt;style&gt;
+    p.gmoTitle {
+    border-bottom:1px solid white;
+    padding-bottom:10px;
+    text-transform: uppercase;
+    }
+&lt;/style&gt;
+&lt;p class="gamma gmoTitle"&gt;From darkness to dawn&lt;/p&gt;
+&lt;p class="delta"&gt;Declining inflation should allow central banks to eventually pivot to an easing bias. Recession seems likely and equity markets may struggle, but a global economic recovery should be on the horizon by year-end 2023.&lt;/p&gt;
+&lt;div class="btn-outline-orange-onDark"&gt;Full Report&lt;/div&gt;
+&lt;div class="btn-outline-orange-onDark"&gt;Executive Summary&lt;/div&gt;</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Background_Image"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Body_Text"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_10"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_1">Introduction</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_2">U.S. recession seems likely</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_3">TINA, say hello to TARA</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_4">Regional snapshots</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_5">Asset-class preferences</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_6"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_7"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_8"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Label_9"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_10"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_1">#ColorBoxesRoot_b8fda17e-a2a8-4716-be82-0e57bee24097</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_2">#ColorBoxesRoot_ad8e3616-d0b1-44ac-8e41-f4918406eecb</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_3">#ColorBoxesRoot_81845524-00dd-4abb-ae9d-3640f8c1cc7b</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_4">#ColorBoxesRoot_87edb688-7ed2-4d09-b925-cc545cae1ab5</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_5">#ColorBoxesRoot_bf477967-9eff-4c66-935f-8edd6fd1d8ff</col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_6"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_7"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_8"></col>
+    <col varName="Table-of-contents_C3BED29A20C449D298A31C5BCC037D1C_Tag_9"></col>
+    <col varName="video_4CFE5F3DA8BA4633BB73500EA67D1161_Body">&lt;div&gt;&lt;iframe id="ytembed" width="637" height="364" allowfullscreen="" src="https://www.youtube.com/embed/MXRcLurPA3k?rel=0&amp;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Global Market Outlook"&gt;&lt;/iframe&gt;&lt;/div&gt;</col>
+    <col varName="headshot_3631D43897E9408383152F8FF41FC4B6_Body">&lt;div class="print-break-top"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img alt="headshot of Andrew Pease, Global Head of Investment Strategy" width="auto" src="/-/media/images/us/corporate/leadership/our-people/pease.png?h=120&amp;#38;w=auto"&gt;&lt;/p&gt;
+&lt;p class="gamma"&gt;Andrew Pease
+&lt;/p&gt;
+&lt;p class="label"&gt;&lt;strong&gt;GLOBAL HEAD OF INVESTMENT STRATEGY
+&lt;/strong&gt;&lt;/p&gt;</col>
+    <col varName="quote_E4ED00AFE768416A911623ECD8A49F6C_Body">&lt;img alt="decorative" height="auto" width="80" src="/-/media/images/global/gmo/quotecolorstrip.png"&gt;
+&lt;p class="gamma"&gt;"The main issue for 2023 is whether inflation pressures ease sufficiently to allow central banks to step away from rate hikes and potentially begin easing."&lt;/p&gt;
+&lt;p class="gamma"&gt;&lt;em&gt;- Andrew Pease&lt;/em&gt;&lt;/p&gt;</col>
+    <col varName="Color-Box_5AD67A32E03B4D6CAC576A44AB036DEA_Body">&lt;p class="gamma"&gt;INTRODUCTION&lt;/p&gt;
+&lt;h1 class="alpha"&gt;2023&amp;#160;Global Market Outlook: &lt;br&gt;
+From darkness to dawn&lt;/h1&gt;</col>
+    <col varName="text_2BC54CCC0135405C897B6F7AFD452EC0_Body">&lt;p class="base"&gt;There is a Winston Churchill quote for every occasion, and the one that fits current market conditions is: &amp;#8220;if you are going through hell, keep going&amp;#8221;. It&amp;#8217;s been a hellish year for investors with almost every major listed asset class posting negative returns. The rebound over the past couple of months has provided investors with some relief, but it&amp;#8217;s too early to be confident that we have seen the worst.&lt;/p&gt;
+&lt;p class="base"&gt;The economic news is likely to deteriorate. Europe and the UK are probably in recession, and a mild recession at least seems likely for the United States given the extent of monetary tightening. It&amp;#8217;s unclear when China can fully escape zero-tolerance Covid-19 lockdowns and the property-market implosion. The exception as always is Japan, which hasn&amp;#8217;t had monetary tightening and where the inflation spike offers the opportunity to break nearly three decades of deflationary psychology. &amp;#160;&lt;/p&gt;
+&lt;p class="base"&gt;Markets, of course, are forward looking and usually price in bad economic outcomes ahead of time. It&amp;#8217;s possible that we&amp;#8217;ve already seen the worst declines in equity markets. This may be the case if the U.S. has only a mild recession in 2023. On the other hand, markets may transition from the current &amp;#8216;bad news is good&amp;#8217; narrative that sees soft economic data as heralding a U.S. Federal Reserve (Fed) pivot, to a &amp;#8216;bad news is bad&amp;#8217; scenario wherein fears of significant contraction in profits and jobs lead to further market downturns.&lt;/p&gt;
+&lt;h3 class="gamma"&gt;&lt;strong&gt;Will inflation ease in 2023?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;The main issue for 2023 is whether inflation pressures ease sufficiently to allow central banks to step away from rate hikes and potentially begin easing. We expect inflation will be on a downward trend as global demand slows. This should allow central banks to eventually change direction and may set the scene for the next economic upswing. Markets and economies move in cycles. There is no certainty that we have passed the worst of market conditions, but the contours of the next upswing are visible on the horizon. The beaten-down investors of 2022 in Churchill&amp;#8217;s words need to keep going into 2023. &amp;#160;&lt;/p&gt;
+&lt;h3 class="gamma"&gt;&lt;strong&gt;Our key asset-class views for 2023:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Fixed income will make a comeback after experiencing the worst year of returns in 2022.&lt;/li&gt;
+    &lt;li&gt;Long-term bond yields should decline moderately as recession risk looms. Our target is 3.3% for the U.S. 10-year Treasury yield by the end of 2023.&lt;/li&gt;
+    &lt;li&gt;Equities have limited upside with recession risk on the horizon.&lt;/li&gt;
+    &lt;li&gt;The U.S. dollar could weaken late in 2023 as central banks start to unwind rate hikes and investors begin to focus on a global recovery.&lt;/li&gt;
+    &lt;li&gt;This could be the trigger for non-U.S. developed market equities to finally outperform U.S. stocks, given their more cyclical nature and relative valuation advantage over U.S. stocks.&lt;/li&gt;
+    &lt;li&gt;A weaker U.S. dollar could also be the trigger for emerging markets to outperform.&lt;/li&gt;
+    &lt;li&gt;Overall, 2023 is likely to be the year of the diversified portfolio, where a traditional balanced portfolio of 60% equities and 40% fixed income does well.&lt;/li&gt;
+&lt;/ul&gt;</col>
+    <col varName="Color-Box_212EE1D0FE6E44EFA1731670F30F18D5_Body">&lt;h2 class="alpha"&gt;U.S. recession seems likely&lt;/h2&gt;</col>
+    <col varName="text_0FDC85C6558640BEBB348B48EFCC5D61_Body">&lt;p class="base"&gt;The story of 2022 has been the energy price shock from the Russia/Ukraine war, high inflation, and large central bank rate hikes. Fed Chair Jerome Powell is on track to deliver the most aggressive Fed tightening phase since former Fed Chair Paul Volcker in the early 1980s. Market expectations are that the Fed funds rate will rise from 3.75-4.0% currently to 5% by March 2023.&lt;/p&gt;
+
+&lt;p class="base"&gt;The indicator that most clearly signals recession risk is the yield curve. The chart below shows the spread between the 10-year and 2-year Treasury yield. A negative spread (inversion) means bond investors think the Fed has tightened by so much that interest rates will be lower in the future.&lt;/p&gt;</col>
+    <col varName="text_79E87D273B6B48F1B8606E59649C67E6_Body">&lt;p class="delta"&gt;&lt;strong&gt;U.S. yield curve and recessions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Chart 1 Global inflation rates" src="/-/media/images/global/gmo/charts/2023/q1/chart-1-us-yield-curve-and-recessions.svg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Source: Refinitiv® DataStream®, as of November 23, 2022.&lt;/small&gt;&lt;/p&gt;</col>
+    <col varName="text_40A55F9AD6A4488CA711920584852FE4_Body">&lt;p class="base"&gt;It&amp;#8217;s still possible that inflation and growth indicators will slow by enough over the next few months to allow the Fed to pivot away from aggressive rate hikes before the economy slides into recession. Declining inflation will boost real incomes and demand. This could allow recession to be avoided. The likelihood of this outcome, however, has diminished and the Fed pivot seems unlikely to happen in time to prevent at least a mild recession.&lt;/p&gt;
+
+&lt;h3 class="gamma"&gt;&lt;strong&gt;What type of recession could the U.S. experience?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p class="base"&gt;The next issue is what type of recession is likely&amp;#8212;moderate or severe? In the 13 recessions since World War II, gross domestic product (GDP) suffered a median decline of 2.6% and the unemployment rate rose by 3.6% points.&lt;/p&gt;
+
+&lt;p class="base"&gt;The risk of a severe recession comes from the speed and magnitude of Fed tightening, and how this might create unexpected problems. The UK already had a hint of this in September with the turmoil in leveraged strategies used by pension funds. This came when gilt yields rose suddenly after the disastrous mini budget by the short-lived Liz Truss government. There has also been the collapse in crypto assets. So far, the links from crypto to the traditional financial sector and broader economy appear limited, but both episodes highlight the risks of hidden leverage when interest rates are rising.&lt;/p&gt;
+
+&lt;p class="base"&gt;Our starting point is to expect that the next recession will be relatively mild. Household and corporate balance sheets are in good shape. Aside from inflation, there are no significant obvious economic imbalances. It&amp;#8217;s reasonable to expect that a recession in 2023 will see GDP decline less and unemployment rise by less than the average for modern recessions.&lt;/p&gt;
+
+&lt;p class="base"&gt;In fact, a mild recession may be the best outcome from an investor&amp;#8217;s perspective. A condition for sustained lower inflation is that wage pressures start to ease. The Atlanta Fed wage tracker shows wage growth of 6.7% in the year to October. The unemployment rate, at 3.7% in October, is near 50-year lows. The risk with a soft landing that avoids recession is that the unemployment rate doesn&amp;#8217;t rise by enough to reduce inflation close to 2%. In this scenario, the Fed could go on pause early in the year, but resume tightening in late 2023 if inflation is still above its comfort zone. The Fed funds rate could then rise toward 6% and set the scene for a more significant recession and market reaction in 2024.&lt;/p&gt;
+
+&lt;p class="base"&gt;Under a mild recession outcome in 2023, the unemployment rate should rise by at least two percentage points, creating the type of disinflationary pressure that would allow the Fed to begin easing.&amp;#160;&lt;/p&gt;</col>
+    <col varName="quote_C49F5D8D6F134760BB5D57CD1C8D28BD_Body">&lt;img alt="decorative" height="auto" width="80" src="/-/media/images/global/gmo/quotecolorstrip.png"&gt;
+&lt;p class="gamma"&gt;"It’s reasonable to expect that a recession in 2023 will see GDP decline less and unemployment rise by less than the average for modern recessions."&lt;/p&gt;
+&lt;p class="gamma"&gt;&lt;em&gt;- Andrew  Pease&lt;/em&gt;&lt;/p&gt;</col>
+    <col varName="empty_84B10CD7FCDC4444B5747867F46CAB00_Body"></col>
+    <col varName="text_0015D75BF76441A5A83916BF162D2787_Body">&lt;p class="base"&gt;The interest rate reset of 2022 has resulted in the worst fixed income returns on record. The global fixed income benchmark, the Bloomberg Global Aggregate Index, posted a -20.8% return for the year through October. This outstrips the previous worst 12-month return of -7% in 2015 by a wide margin.&lt;/p&gt;</col>
+    <col varName="text_554715E4168148F68B2FEC43C06D1808_Body">&lt;p class="delta"&gt;&lt;strong&gt;Global fixed income: 12-month return&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Chart 1 Global inflation rates" src="/-/media/images/global/gmo/charts/2023/q1/chart-2-global-fixed-income.svg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Source: Refinitiv® DataStream®, as of November 23, 2022.&lt;/small&gt;&lt;/p&gt;</col>
+    <col varName="text_4538C0FE34D44BA6930B4ABFE2042667_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;Could the traditional 60/40 portfolio make a comeback?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p class="base"&gt;The only good news from the painful fixed income adjustment is that we are finally escaping the world of TINA&amp;#8212;&lt;em&gt;there is no alternative&lt;/em&gt;&amp;#8212;where ultra-low interest rates forced investors into equities and a risky search for yield. Higher &amp;#160;interest rates mean that TARA&amp;#8212;&lt;em&gt;there are reasonable alternatives&lt;/em&gt;&amp;#8212;is now a better description of the investment opportunity set. The yield on the Bloomberg Global Aggregate Index, at 3.6% in late November, is the highest since 2009. The U.S. high yield index has a yield near 9%. UK investors can now access a yield close to 4% on the benchmark Sterling Broad Market Index.&lt;/p&gt;
+
+&lt;p class="base"&gt;The return of TARA signals that the traditional balanced portfolio made up of 60% equities and 40% fixed income is poised to make a comeback after its worst year in living memory.&lt;/p&gt;</col>
+    <col varName="quote_C9368FA816834707807A60E9F399A06F_Body">&lt;img alt="decorative" height="auto" width="80" src="/-/media/images/global/gmo/quotecolorstrip.png"&gt;
+&lt;p class="gamma"&gt;"The traditional balanced portfolio made up of 60% equities and 40% fixed income is poised to make a comeback after its worst year in living memory."&lt;/p&gt;
+&lt;p class="gamma"&gt;&lt;em&gt;- Andrew  Pease&lt;/em&gt;&lt;/p&gt;</col>
+    <col varName="empty_A9A2F1AB247D4DF18EA9CC928137DBF5_Body"></col>
+    <col varName="Color-Box_5D2E329D664D40D2A00F3E6558CBB81B_Body">&lt;h2 class="alpha"&gt;Regional &lt;br&gt;snapshots&lt;/h2&gt;</col>
+    <col varName="text_D86B9F83D9DB425FB93CD193B48A3F40_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;United States&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;Inflation remains the dominant issue for U.S. markets. It pressures the Federal Reserve to prioritize price stability over the economic expansion which, in turn, casts a cloud over the outlook for corporate profits and asset prices. The duration and magnitude of the inflation overshoot has already pushed monetary policy into the danger zone. We now believe the likeliest scenario is for a U.S. recession over the next 12 months.&lt;/p&gt;
+
+&lt;p class="base"&gt;The good news is that private sector balance sheets are healthy, inflation expectations are more anchored than they were in the 1970s and healing global supply chains should allow volatile inflation drivers&amp;#8212;such as durable goods inflation&amp;#8212;to flip back toward secular deflation. These factors argue against expecting a severe economic contraction. The labor market is still overheated and correcting that imbalance will likely require some pain, such as higher unemployment as the economy cools.&lt;/p&gt;
+
+&lt;p class="base"&gt;Markets have partially priced in these risks, while pessimistic investor psychology argues against an overly conservative asset allocation. The equity market outlook is mixed with a tug of war between negative cyclical dynamics and oversold sentiment. U.S. Treasuries, however, look like an attractive investment, offering investors positive real yields into an economic slowdown.&lt;/p&gt;</col>
+    <col varName="map_C47E8E614EF34CACB91A4ABDAF8A358D_Body">&lt;img alt="black and white map of United States" height="142" width="auto" src="/-/media/images/global/insights/gmo/us.svg"&gt;</col>
+    <col varName="text_D03348D7264A4A7FA3CDCA2A5FB3EEE7_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;Eurozone&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;The eurozone outlook has improved marginally, although a recession still seems unavoidable. The improvements come from the success in filling gas storage ahead of the winter, the mild weather so far and the energy savings measures implemented within the industrial sector. It now seems that energy rationing will not be required and the previous fears of forced shutdowns of energy-intensive industries should not occur. The test will come when the weather worsens and households turn up their heating, but so far, the worst fears of the energy shock are not being realized.&lt;/p&gt;
+&lt;p class="base"&gt;Eurozone inflation in October reached 10.6% in headline terms, and 5.0% excluding food and energy. It should fall during 2023 as the region&amp;#8217;s economy weakens, potentially moving toward 2% by the end of the year. This outlook depends on energy prices stabilizing. Another surge in gas prices next year would see inflation remain high and the region in an extended recession.&lt;/p&gt;
+&lt;p class="base"&gt;More European Central Bank (ECB) tightening seems likely given the labor market pressures: the unemployment rate, at 6.6%, is the lowest since the launch of the common currency. The market expects the ECB deposit rate will peak at 2.75-3.0% by the second quarter. This seems at the upper limit of what the ECB can do given the recessionary outlook. European growth, however, should rebound in the spring. Inflation should be on a downward trend, and this should limit the amount of ECB tightening&lt;/p&gt;</col>
+    <col varName="map_DBC3F4EE9076479090E56B7AAA104FBB_Body">&lt;img alt="black and white map of Europe" height="242" width="auto" src="/-/media/images/global/insights/gmo/eurozone.svg"&gt;</col>
+    <col varName="text_0A9185C4584D438E8CDE8666D5FA323D_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;United Kingdom&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;The UK seems set for a prolonged recession, as monetary tightening, fiscal tightening, the energy price shock, and supply-side constraints from Brexit combine to create a challenging outlook. GDP has yet to regain pre-COVID-19 lockdown levels, but labor-supply shortages have driven the unemployment rate to the lowest level since 1973.&lt;/p&gt;
+&lt;p class="base"&gt;New prime minister Rishi Sunak has reversed the tax cuts introduced by the short-lived Truss government and added on some tax increases. This has calmed the gilts market and reduced the pressure on mortgage rates. Markets expect the Bank of England (BOE) to lift the base rate from 3% currently to 4.5% by the second quarter of next year, as wage pressures prevent inflation from falling quickly. It&amp;#8217;s questionable whether the BOE will be able to lift rates by this much given the direction of the economy. The BOE&amp;#8217;s inflation vigilance, however, makes it difficult to forecast a UK recovery in 2023. &lt;/p&gt;</col>
+    <col varName="map_5BBFEB3D177C4BD7A915381883A75259_Body">&lt;img alt="black and white map of United Kingdom" height="300" width="auto" src="/-/media/images/global/insights/gmo/uk.svg"&gt;</col>
+    <col varName="text_7E9242AEC7D5484A9EB413234532ACE9_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;Japan&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;Japan is set for a year of softer economic growth in 2023. Domestic demand is weakening and there is slowing demand for Japanese exports. Unlike the rest of the world, Japan is still operating below capacity. This means it doesn&amp;#8217;t face the risk of monetary overtightening.&lt;/p&gt;
+&lt;p class="base"&gt;Although inflation has been rising, most of it is driven by imported inflation. Japan is an energy importer and the depreciation in the currency this year has pushed up import prices.&lt;/p&gt;
+&lt;p class="base"&gt;Japan has been an outlier in developed markets this year, with the Bank of Japan (BoJ) holding steady with accommodative monetary policy. We expect monetary policy to remain unchanged until BoJ Governor Haruhiko&amp;#160;Kuroda&amp;#8217;s term ends in March 2023. Any adjustment in policy after that should be marginal. A growth tailwind for Japan could be a revival of the tourism sector following the depreciation in the currency and the recently reopened borders.&lt;/p&gt;
+&lt;p class="base"&gt;Japanese equites appear slightly more expensive than European and UK equities. The Japanese yen is very cheap and should benefit as global central banks reach the end of the hiking cycle and global growth starts to slow.&lt;/p&gt;
+</col>
+    <col varName="map_4878D1BB65F64791B034DDC021B9C3EC_Body">&lt;img alt="black and white map of Japan" height="242" width="auto" src="/-/media/images/global/insights/gmo/japan.svg"&gt;</col>
+    <col varName="text_DBF6FC602A374DBDAE3025900AF1F77B_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;China&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;2023 should see the Chinese economy eventually exit &lt;em&gt;zero-COVID&lt;/em&gt; government rules, after having spent most of 2022 under intense restrictions. Recent government announcements show that plans to ease restrictions are beginning to be made, but &lt;em&gt;zero-COVID&lt;/em&gt; measures are likely to remain in place throughout winter.&lt;/p&gt;
+&lt;p class="base"&gt;A key watchpoint for 2023 is the struggling property market. The government has announced new support measures, but they do not appear large enough to create a sustained recovery. We expect more measures to improve confidence in the housing sector and to boost spending when the economy re-opens. Retail sales are running well below previous trends, driven by the &lt;em&gt;zero-COVID&lt;/em&gt; policy and by low consumer confidence.&lt;/p&gt;
+&lt;p class="base"&gt;Attention should also be paid to any further government announcements around investment in semiconductors following the actions by the U.S. government to limit the export of chips to China.&lt;/p&gt;
+&lt;p class="base"&gt;Chinese equities look cheap after having sold off significantly, and our manager research liaison shows that there is growing interest in China from a stock-selection perspective.&lt;/p&gt;</col>
+    <col varName="map_8918648B2BBB482E9387F8F55A857270_Body">&lt;img alt="black and white map of China" height="160" width="auto" src="/-/media/images/global/insights/gmo/china.svg"&gt;</col>
+    <col varName="text_98AEF41ECC614D8BBABDB0AC5B47E8E6_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;Canada&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;The Canadian economy performed better than expected in 2022, but a recession seems unavoidable in 2023. The lagged effects of very tight monetary policy should soon catch up with overindebted households. Moreover, a slowing global economy will be a drag on commodity prices, challenging exports.&lt;/p&gt;
+&lt;p class="base"&gt;Although inflation has peaked, a Bank of Canada (BoC) pivot requires a discernable decline in inflation toward the upper end of its 1% to 3% range. Otherwise, policy will continue to tighten despite the slowing economy. That said, BoC Governor Tiff Macklem has indicated that the rate hiking cycle is closer to the end stages, and we believe the BoC will pause after another 50 basis points of tightening. This will take the target rate to 4.25% in early 2023. Eventually, a recession coupled with lower inflation will allow the BoC to ease policy in late 2023.&lt;/p&gt;
+&lt;p class="base"&gt;Financial markets are likely to stay volatile. The positives for investors are that bond yields are more attractive than they've been in over a decade. The Canadian benchmark bond index is yielding over 4%, the highest level since late 2008. This offers improved income and provides diversification protection for recession-driven risk-off sentiment. Canadian equities are vulnerable to a cyclical downturn, although valuations are not extreme, and medium-term prospects are supported by the supply and demand dynamics for natural resources being driven by the energy transition to low carbon sources.&lt;/p&gt;</col>
+    <col varName="map_161E8A9103414B08BA983FEAD0E4EBE4_Body">&lt;img alt="black and white map of Canada" height="142" width="auto" src="/-/media/images/global/insights/gmo/canada.svg"&gt;</col>
+    <col varName="text_898EF810565E46DBB6C312506C26EBBA_Body">&lt;h3 class="gamma"&gt;&lt;strong&gt;Australia/New Zealand&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class="base"&gt;Australia&amp;#8217;s economy is set to slow in 2023 as the Reserve Bank of Australia (RBA) rate hikes take effect and the reopening impulse fades. Electricity prices are expected to increase by up to 80%, which will weigh on consumer spending. Inflation has likely peaked and should allow the RBA to go on pause ahead of other major central banks. We think the market expectation of nearly a 4% peak for the RBA cash rate is too aggressive. A peak between 3 and 3.5% seems more likely. A less-aggressive central bank means there is a lower risk of recession in Australia than in Europe or the United States. Australian equities are no longer trading at a discount to global equities, so the better economic outlook has, to an extent, been priced in. The Australian dollar should benefit from improving activity in China and global central banks approaching the end of their hiking cycle.&lt;/p&gt;
+&lt;p class="base"&gt;The outlook for New Zealand is more precarious than for Australia, given the aggressive rate hikes from the Reserve Bank of New Zealand (RBNZ). Housing has already suffered a significant decline, and this is likely to continue through the first half of 2023. The market expects the RBNZ cash rate to peak near 5.5%, which means over another 100 basis points of tightening. Construction activity should be supported, however, through demand from the Homes and Communities government department. New Zealand is likely to hold a general election sometime in 2023, with the election due by no later than Jan. 13, 2024. Published opinion polls point to a tight contest between the Labour Party led by Jacinta Ardern and the center-right National Party.&lt;/p&gt;</col>
+    <col varName="map_7CC9C137537A4932B5B9476174FCC103_Body">&lt;img alt="black and white map of Australia/New Zealand" height="142" width="auto" src="/-/media/images/global/insights/gmo/au-nz.svg"&gt;</col>
+    <col varName="quote_CEE10A60C43F4E65ADFE1D38144D51D5_Body">&lt;img alt="decorative" height="auto" width="80" src="/-/media/images/global/gmo/quotecolorstrip.png"&gt;
+&lt;p class="gamma"&gt;"U.S. Treasuries look like an attractive investment, offering investors positive real yields into an economic slowdown."&lt;/p&gt;
+&lt;p class="gamma"&gt;&lt;em&gt;- Andrew  Pease&lt;/em&gt;&lt;/p&gt;</col>
+    <col varName="empty_E70266A711364A459D8F47B5E1C31D3F_Body"></col>
+    <col varName="Color-Box_90552578FDA143F4839EAA20D0A8F315_Body">&lt;h2 class="alpha"&gt;Asset-class &lt;br&gt;preferences&lt;/h2&gt;</col>
+    <col varName="text_659474E8B33B4654A8F81EE8D4F405A0_Body">&lt;p class="base"&gt;Our cycle, value and sentiment (CVS) decision-making process points to an uncertain global equity market outlook.&lt;/p&gt;
+
+&lt;h3 class="gamma"&gt;&lt;strong&gt;When could the business cycle improve?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p class="base"&gt;The cycle outlook, with recessions likely, is a headwind for equity markets. This may improve once it is apparent that the Fed has finished tightening. The turning point will come when interest rate cuts are on the horizon.&lt;/p&gt;
+
+&lt;h3 class="gamma"&gt;&lt;strong&gt;Are U.S. equities still expensive?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p class="base"&gt;Equity market valuation is a question mark. The U.S. large-cap S&amp;#38;P 500&amp;#174; Index, as of late November, is 16% below its peak at the beginning of the year. The 1-year forward price-to-earnings multiple has fallen from 21.5 times at the start of the year to 17.5 times in late November, but this is still a high multiple by historic standards. Our valuation methodology is scoring U.S. equities as slightly expensive. Non-U.S. equities are close to fair value.&lt;/p&gt;
+
+&lt;h3 class="gamma"&gt;&lt;strong&gt;Is sentiment supportive?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p class="base"&gt;Our composite sentiment indicator for equities is only marginally oversold as of late November. It has, however, reached extremes of pessimism twice this year. Sentiment extremes of this magnitude tend to have a persistent impact on market psychology, and we still score sentiment as supportive for equities.&lt;/p&gt;
+&lt;p class="base"&gt;The CVS conclusion for equities is that the cycle is poor but may improve, value is expensive to at best fair value, and sentiment is still supportive.&lt;/p&gt;
+
+&lt;h3 class="gamma"&gt;&lt;strong&gt;Are government bonds attractive?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p class="base"&gt;Government bonds, however, are attractive from a CVS perspective. The cycle is turning supportive with inflation set to decline and central banks slowing the pace of tightening and potentially going on pause in early 2023. Value has turned positive after rises in yields this year. Sentiment is also supportive with data from the Commodity Futures Trading Commission highlighting that most investors hold short-duration positions (i.e., they expect yields to rise). This is supportive from a contrarian perspective.&lt;/p&gt;</col>
+    <col varName="text_152737905AAE47A9B295C958B25AD6C4_Body">&lt;p class="delta"&gt;&lt;strong&gt;Composite contrarian indicator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Chart 5 Year-to-date returns through Sept. 16, 2022" src="/-/media/images/global/gmo/charts/2023/q1/chart-4-composite-contrarian-indicator.svg"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Source: Russell Investments. Last observation is +1.24 Standard Deviations, as of November 22, 2022. The Composite Contrarian Indicators for investor sentiment is measured in standard deviations above or below a neutral level, with positive numeric scores corresponding to signs of investor pessimism, while negative numeric scores correspond to signs of investor optimism.&lt;/small&gt;&lt;/p&gt;</col>
+    <col varName="empty_8EBA871E4CBB43CBB44C6197C696FCAC_Body"></col>
+    <col varName="text_6C9155F9264B4977A46984CC860BED39_Body">&lt;p class="base"&gt;&lt;strong&gt;Looking toward 2023, we believe&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Equities have limited upside with recession risk on the horizon. Although &lt;strong&gt;non-U.S. developed equities&lt;/strong&gt; are cheaper than U.S. equities, we have a neutral preference until the Fed become less hawkish and the U.S. dollar weakens.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Emerging market equities&lt;/strong&gt; could recover if there is significant China stimulus, the Fed slows the pace of tightening, energy prices subside, and the U.S. dollar weakens. For now, a neutral stance is warranted.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;High yield&lt;/strong&gt; and &lt;strong&gt;investment grade credit&lt;/strong&gt; spreads are near their long-term averages, although the overall yield on U.S. high yield at near 8.5% is attractive. Spreads will come under upward pressure if U.S. recession probabilities increase and there are fears of rising defaults. We have a neutral outlook on credit markets.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Government bond &lt;/strong&gt;valuations have improved after the rise in yields. U.S., UK and German bonds offer good value. Japanese bonds are still expensive with the Bank of Japan defending the 25-basis-point yield limit. Our methodology has fair value for Japanese government bond yields at around 50 basis points. Yields have risen sharply in most markets in recent months. The risk of a further significant selloff seems limited given inflation is close to peaking and markets have priced hawkish outlooks for most central banks.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Real assets:&lt;/strong&gt; Real-estate investment trusts (REITs) look attractively valued relative to global equities and listed infrastructure and should benefit from declining bond yields. The &lt;strong&gt;commodities&lt;/strong&gt; outlook is mixed, given the expected slowdown in the global economy. A post-lockdown increase in construction activity in China next year will support demand for industrial metals. The energy market outlook is complex. Recessions will reduce oil demand, but the supply side may tighten if more restrictions are placed on Russian oil exports.&lt;/li&gt;
+    &lt;li&gt;The &lt;strong&gt;U.S. dollar&lt;/strong&gt; has made gains this year on Fed hawkishness and safe-haven appeal during the Russia/Ukraine conflict. It could weaken if inflation begins to decline and the Fed pivots to a less hawkish stance in early 2023. The main beneficiaries are likely to be the &lt;strong&gt;euro&lt;/strong&gt; and the &lt;strong&gt;Japanese yen.&lt;/strong&gt; The yen could also appreciate strongly if the successor to BoJ Governor Kuroda moves away from the current yield-curve control strategy.&lt;/li&gt;
+&lt;/ul&gt;</col>
+    <col varName="text_235C868F9C064B5FB96FCFA5946D3B2D_Body">&lt;p class="delta"&gt;&lt;strong&gt;2022 asset performance through November 25&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Chart 4 Composite contrarian indicator" src="/-/media/images/global/gmo/charts/2023/q1/chart-3-asset-performance.svg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Source: Refinitiv® DataStream®, as of November 25, 2022.&lt;/small&gt;&lt;/p&gt;
+</col>
+    <col varName="empty_4E46C64B0BE741B6B4CBA5DB74430AD5_Body"></col>
+    <col varName="quote_1C9DE72DADB54F259C42C42D681763F2_Body">&lt;img alt="decorative" height="auto" width="80" src="/-/media/images/global/gmo/quotecolorstrip.png"&gt;
+&lt;p class="gamma"&gt;"The cycle, value and sentiment conclusion for equities is that the cycle is poor but may improve, value is expensive to at best fair value, and sentiment is still supportive."&lt;/p&gt;
+&lt;p class="gamma"&gt;&lt;em&gt;- Andrew  Pease&lt;/em&gt;&lt;/p&gt;</col>
+    <col varName="empty_7AEF09469ECC4019A86A9F985D4AD73E_Body"></col>
+    <col varName="Color-Box_E810205FDAA7495F80A5CBF9D44F60BE_Body">&lt;h2&gt;Prior issues of the Global Market Outlook&lt;/h2&gt;</col>
+    <col varName="Previous-GMOs_E11C343D76A741FA8BEB5196C8BA7643_Body">&lt;div class="btn-outline-orange-onLight"&gt;Q4 2022 update&lt;/div&gt;
+&lt;div class="btn-outline-orange-onLight"&gt;Q3 2022 update&lt;/div&gt;
+&lt;div class="btn-outline-orange-onLight"&gt;Q2 2022 update&lt;/div&gt;
+&lt;div class="btn-outline-orange-onLight"&gt;Annual 2022 update&lt;/div&gt;</col>
+    <col varName="text_1DF8CB27B57F4B6D940050D237370D95_Body"></col>
+  </row>
+</dataSource>

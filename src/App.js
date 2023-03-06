@@ -10,7 +10,7 @@ const App = ()  => {
       <PDFDownloadLink document={<PDFFile />} filename="FORM">
       {({loading}) => (loading ? <button>Loading Document...</button> : <button>Download</button> )}
       </PDFDownloadLink>
-      {/* <PDFFile /> */}
+      { <XMLParser /> }
     </div>
   );
 }
