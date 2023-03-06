@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react'
 import XMLParser from 'react-xml-parser';
 
-function Api() {
-
+const XMLCnv = () => {
     useEffect(() => {
         fetch("https://russellinvestments.com/webapi/ChiliPublishFeed/GetChiliData?itemId=746B61D4-FFE8-4E90-9C71-67A68FE04A19")
             .then(res => res.text())
@@ -16,6 +15,6 @@ function Api() {
     return (
         <div></div>
     )
-}
+};
 
-export default XMLParser
+export default XMLCnv
