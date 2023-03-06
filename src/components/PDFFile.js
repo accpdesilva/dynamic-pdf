@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
   image: {
     marginVertical: 15,
     marginHorizontal: 100,
+    width: 200,
   },
   header: {
     fontSize: 12,
@@ -81,28 +82,7 @@ const PDFFile = () => {
           that Fry has discovered the smelliest object in the known universe!
           No! The kind with looting and maybe starting a few fires! Bender, quit
           destroying the universe! So, how 'bout them Knicks? Yes! In your face,
-          Gandhi! For one beautiful night I knew what it was like to be a
-          grandmother. Subjugated, yet honored. Bite my shiny metal ass. You
-          know the worst thing about being a slave? They make you work, but they
-          don't pay you or let you go. There's no part of that sentence I didn't
-          like! And when we woke up, we had these bodies. Oh sure! Blame the
-          wizards! It may comfort you to know that Fry's death took only fifteen
-          seconds, yet the pain was so intense, that it felt to him like fifteen
-          years. And it goes without saying, it caused him to empty his bowels.
-          You guys aren't Santa! You're not even robots. How dare you lie in
-          front of Jesus? Hey, whatcha watching? No, I'm Santa Claus! If rubbin'
-          frozen dirt in your crotch is wrong, hey I don't wanna be right. Oh,
-          you're a dollar naughtier than most. Then we'll go with that data
-          file! Fry, we have a crate to deliver. And why did 'I' have to take a
-          cab? I guess if you want children beaten, you have to do it yourself.
-          Say it in Russian! Anyhoo, your net-suits will allow you to experience
-          Fry's worm infested bowels as if you were actually wriggling through
-          them. And I'm his friend Jesus. Now what? Your best is an idiot! Quite
-          possible. We live long and are celebrated poopers. Switzerland is
-          small and neutral! We are more like Germany, ambitious and
-          misunderstood! I guess because my parents keep telling me to be more
-          ladylike. As though! You know the worst thing about being a slave?
-          They make you work, but they don't pay you or let you go.
+          Gandhi!
         </Text>
         <Text
           style={styles.pageNumber}
