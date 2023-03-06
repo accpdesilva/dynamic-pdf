@@ -1,6 +1,7 @@
 import './App.css';
 import React from 'react';
 import PDFFile from './components/PDFFile';
+import XMLParser from './components/XMLParser';
 import { PDFDownloadLink } from '@react-pdf/renderer';
 
 const App = ()  => {
