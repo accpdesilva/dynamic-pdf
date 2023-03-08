@@ -1,20 +1,15 @@
-import React, { useEffect } from 'react'
-import XMLParser from 'react-xml-parser';
-
 const XMLCnv = () => {
-    useEffect(() => {
-        fetch("./XML/data.xml")
-            .then(res => res.text())
-            .then(data => {
-                var xml = new XMLParser().parseFromString(data); 
-                console.log(xml)
-            })
-            .catch(err => console.log(err));
-    }, [])
-
-    return (
-        <div></div>
-    )
+	var self = this;
+	axios
+	.get("./XML/data.xml", {
+		"Content-Type": "application/xml; charset=utf-8"
+	 })
+	.then(function(response) {
+		self.setState({ data: response.data });
+	})
+	.catch(function(error) {
+		console.log(error);
+	});
 };
 
 export default XMLCnv
